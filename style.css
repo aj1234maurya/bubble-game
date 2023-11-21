@@ -114,6 +114,12 @@ button:hover {
   .bubble {
     font-size: larger;
   }
+  .elem h2 {
+    font-size: 2vw;
+  }
+  .elem div {
+    font-size: 2vw;
+  }
 }
 
 /* @media (min-width: 769px) {
