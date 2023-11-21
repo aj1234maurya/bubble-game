@@ -109,6 +109,27 @@ button:hover {
     width: 100%;
   }
 }
+@media (min-width: 769px) {
+  .elem h2 {
+    font-size: large;
+  }
+  .box {
+    font-size: 2vw;
+    color: black;
+    font-weight: 600;
+    padding: 3px 5px;
+    font-size: large;
+  }
+  #bottom {
+    gap: 0.8vw;
+    padding: 1vw;
+  }
+  .bubble {
+    font-weight: 700;
+    height: 70px;
+    width: 70px;
+  }
+}
 
 /* * {
   margin: 0;
