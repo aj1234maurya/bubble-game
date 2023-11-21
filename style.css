@@ -109,7 +109,7 @@ button:hover {
     width: 100%;
   }
 }
-@media (min-width: 769px) {
+/* @media (min-width: 769px) {
   .elem h2 {
     font-size: large;
   }
@@ -129,7 +129,7 @@ button:hover {
     height: 70px;
     width: 70px;
   }
-}
+} */
 
 /* * {
   margin: 0;
