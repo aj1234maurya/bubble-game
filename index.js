@@ -4,7 +4,7 @@ let timerint;
 
 function bubble() {
   let clutter = "";
-  for (let i = 1; i <= 84; i++) {
+  for (let i = 1; i <= 110; i++) {
     let rn = Math.floor(Math.random() * 10);
     clutter += `<div class="bubble">${rn}</div>`;
   }
